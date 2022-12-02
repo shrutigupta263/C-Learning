@@ -22,6 +22,3 @@ int main()
      printf (" \n the average marks of 10 are %d", average);
      return 0;
 }
-     
-
-
